@@ -1,0 +1,7 @@
+#Loop Problem
+
+n = int(input())
+for i in range(0,n):
+     sum=i
+     result=sum**2
+     print(result)
