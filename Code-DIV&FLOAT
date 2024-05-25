@@ -1,8 +1,8 @@
 #Division and Float
-if __name__ == '__main__':
-    a = int(input())
-    b = int(input())
-    div=a//b
-    float=a/b
-    print(div)
-    print(float)
+
+a = int(input())
+b = int(input())
+div=a//b
+float=a/b
+print(div)
+print(float)
