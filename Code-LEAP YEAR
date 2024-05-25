@@ -1,4 +1,5 @@
 #LeapYear using Function Method
+
 def is_leap(year):
     leap = False
     
